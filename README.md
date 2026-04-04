@@ -7,13 +7,15 @@
 ## Projects
 - Student DBMS (Python + MySQL)
 - Attendance Tracker
-
+  
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=for-the-badge)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShravanRajJ&show_icons=true&theme=tokyonight)
