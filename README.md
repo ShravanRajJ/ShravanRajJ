@@ -1,4 +1,4 @@
-# Hi, I'm Shravan 👋
+# Hi, I'm Shravan 
 
 - CSE Student
 - Interested in Web Development & Machine Learning
