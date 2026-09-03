@@ -10,7 +10,7 @@ Currently focused on building practical applications, improving my **DSA and pro
 
 ## 🚀 What I'm Currently Working On
 
-* 💻 Building web and mobile applications
+* 💻 Building web applications
 * 🧩 Practicing Data Structures & Algorithms
 * 🌐 Improving my frontend and backend development skills
 * 🐳 Learning Docker and CI/CD
