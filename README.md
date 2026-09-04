@@ -1,20 +1,24 @@
-# Hi, I'm Shravan Raj J
+# Hi, I'm Shravan Raj J 🦤
 
-### Final-Year Computer Science Engineering Student
+### Final-Year Computer Science Engineering Student | Aspiring Software Engineer
 
-I'm a Computer Science Engineering student interested in **Web Development and Software Engineering**.
+I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development, and Problem Solving**.
 
-Currently focused on building practical applications, improving my **DSA and problem-solving skills**, and preparing for **software engineering internships and placements**.
+Currently, I'm building practical applications, strengthening my **Data Structures & Algorithms** skills, and developing a deeper understanding of **backend systems, databases, and software development practices**.
+
+I'm actively preparing for **software engineering internships and placements**.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-* 💻 Building web applications
-* 🧩 Practicing Data Structures & Algorithms
-* 🌐 Improving my frontend and backend development skills
-* 🐳 Learning Docker and CI/CD
-* 🗄️ Strengthening my understanding of databases and backend systems
+* 🏗️ Building a **Smart Campus Placement Platform**
+* 🧩 Practicing **Data Structures & Algorithms**
+* ⚙️ Developing backend APIs with **NestJS**
+* 🗄️ Working with **PostgreSQL, Prisma, and database design**
+* 🌐 Building web applications with **Next.js**
+* 🐳 Learning **Docker, CI/CD, and deployment workflows**
+* 💻 Solving programming problems and improving problem-solving skills
 
 ---
 
@@ -31,28 +35,29 @@ Currently focused on building practical applications, improving my **DSA and pro
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
 ### 🗄️ Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### 📱 Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 🛠️ Tools & DevOps
+### 🐳 DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -62,46 +67,100 @@ Currently focused on building practical applications, improving my **DSA and pro
 
 ---
 
-## 📌 Featured Project
+## ⭐ Featured Projects
+
+### 🎓 Smart Campus Placement Platform
+
+A full-stack platform designed to streamline the campus placement process for **students, recruiters, and placement administrators**.
+
+**Current Stack:**
+
+`Next.js` · `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Docker`
+
+**Currently working on:**
+
+* Designing the backend architecture with **NestJS**
+* Building REST APIs
+* Implementing database models with **Prisma**
+* Working with PostgreSQL
+* Developing authentication and role-based workflows
+* Building the Next.js frontend
+* Setting up Docker-based development workflows
+
+---
+
+### 🧩 LeetCode Solutions
+
+A collection of my solutions to **Data Structures & Algorithms problems**, primarily focused on developing problem-solving skills for software engineering interviews.
+
+**Focus areas:**
+
+* Arrays & Strings
+* Recursion
+* Linked Lists
+* Stacks & Queues
+* Binary Trees
+* Binary Search Trees
+* Graphs
+* Dynamic Programming
+* Sorting & Searching
+
+---
 
 ### 🏟️ Turf Booking Platform
 
-A sports facility booking application with player, organizer, tournament, and registration workflows.
+A sports facility booking application supporting **players, organizers, tournaments, and registrations**.
 
 **My contribution:**
 
-* Designed and implemented frontend screens using Flutter
+* Developed frontend screens using Flutter
 * Worked on UI/UX and user flows
 * Improved tournament and registration interfaces
 * Collaborated with the team using Git and GitHub
 
-**Tech:** Flutter · Supabase · PostgreSQL · Git · GitHub Actions
+**Tech:** `Flutter` · `Supabase` · `PostgreSQL` · `Git` · `GitHub Actions`
 
 ---
 
-## 🧩 Currently Learning
+## 🧠 Currently Learning
 
 * Data Structures & Algorithms
-* JavaScript & TypeScript
+* Advanced JavaScript & TypeScript
 * React & Next.js
-* Backend Development
-* Database Design
+* Backend Development with NestJS
+* REST API Design
+* PostgreSQL & Database Design
+* Authentication & Authorization
 * Docker & CI/CD
+* Software Engineering Practices
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravanRajJ\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShravanRajJ&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravanRajJ&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShravanRajJ\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanRajJ\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanRajJ&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **software engineering, web development, and building useful applications**.
+I'm interested in **software engineering, full-stack development, backend systems, and problem solving**.
 
-Always open to learning, collaborating, and working on interesting projects.
+I'm always open to **learning, collaborating, and building useful software**.
+
+### 📫 Find me here
+
+* 💼 LinkedIn — [ShravanRajJ](https://www.linkedin.com/in/shravanrajj/)
+* 🧑‍💻 GitHub — [ShravanRajJ](https://github.com/ShravanRajJ)
+* 🧩 LeetCode — [https://leetcode.com/u/ShravanRajJ/]
+
+---
+
+⭐ *Always learning. Always building.*
