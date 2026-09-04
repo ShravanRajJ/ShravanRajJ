@@ -159,8 +159,8 @@ I'm always open to **learning, collaborating, and building useful software**.
 
 * 💼 LinkedIn — [ShravanRajJ](https://www.linkedin.com/in/shravanrajj/)
 * 🧑‍💻 GitHub — [ShravanRajJ](https://github.com/ShravanRajJ)
-* 🧩 LeetCode — [https://leetcode.com/u/ShravanRajJ/]
+* 🧩 LeetCode — [ShravanRajJ](https://leetcode.com/u/ShravanRajJ/)
 
 ---
 
-⭐ *Always learning. Always building.*
+*Always learning. Always building.*
