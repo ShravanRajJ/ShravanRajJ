@@ -2,7 +2,7 @@
 
 ### Final-Year Computer Science Engineering Student | Aspiring Software Engineer
 
-I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development , and Problem Solving**.
+I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development, and Problem Solving**.
 
 Currently, I'm building practical applications, strengthening my **Data Structures & Algorithms** skills, and developing a deeper understanding of **backend systems, databases, and software development practices**.
 
