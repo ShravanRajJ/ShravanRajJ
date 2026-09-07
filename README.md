@@ -1,6 +1,6 @@
 # Hi, I'm Shravan Raj J 🦤
 
-### Final-Year Computer Science Engineering Student | Aspiring Software Engineer
+### Final-Year Computer Science Engineering Student | Aspiring  Software Engineer
 
 I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development, and Problem Solving**.
 
