@@ -1,4 +1,4 @@
-# Hi, I'm Shravan Raj J 🦤
+# Hi, I'm Shravan Raj J 
 
 ### Final-Year Computer Science Engineering Student | Aspiring  Software Engineer
 
