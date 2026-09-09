@@ -67,7 +67,7 @@ I'm actively preparing for **software engineering internships and placements**.
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 ### 🎓 Smart Campus Placement Platform
 
