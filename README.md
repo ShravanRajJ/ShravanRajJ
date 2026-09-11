@@ -10,7 +10,7 @@ I'm actively preparing for **software engineering internships and placements**.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 * 🏗️ Building a **Smart Campus Placement Platform**
 * 🧩 Practicing **Data Structures & Algorithms**
