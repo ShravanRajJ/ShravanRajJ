@@ -12,7 +12,7 @@ I'm actively preparing for **software engineering internships and placements**.
 
 ## What I'm Currently Working On
 
-* 🏗️ Building a **Smart Campus Placement Platform**
+* 🏗️ Building a ** Smart Campus Placement Platform**
 * 🧩 Practicing **Data Structures & Algorithms**
 * ⚙️ Developing backend APIs with **NestJS**
 * 🗄️ Working with **PostgreSQL, Prisma, and database design**
