@@ -4,7 +4,7 @@
  
 I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development, and Problem Solving**.
 
-Currently, I'm building practical applications, strengthening my **Data Structures & Algorithms** skills, and developing a deeper understanding of **backend systems, databases, and software development practices**.
+Currently, I'm building practical applications, strengthening my **Data Structures & Algorithms** skills, and developing a deeper understanding of **backend  systems, databases, and software development practices**.
 
 I'm actively preparing for **software engineering internships and placements**.
 
