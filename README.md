@@ -4,7 +4,7 @@
 
 I'm a Computer Science Engineering student focused on **Software Engineering, Full-Stack Development, Backend Systems, and Problem Solving**.
 
-I enjoy building practical applications, designing backend systems, working with databases, and improving my **Data Structures & Algorithms** skills.
+I enjoy building practical applications, designing backend  systems, working with databases, and improving my **Data Structures & Algorithms** skills.
 
 Currently preparing for **software engineering internships and placements** while building real-world projects.
 
